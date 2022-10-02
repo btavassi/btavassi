@@ -21,6 +21,8 @@
   <a href = "mailto:btavassi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/bruno-henrique-tavassi-50873815a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+  
 
+<img align="center" width="130" src=https://github.com/btavassi/btavassi/blob/main/PIXEL-ART.gif/>
 
  
