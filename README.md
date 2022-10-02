@@ -4,13 +4,14 @@
   <a href="https://github.com/btavassi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=btavassi&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=btavassi&layout=compact&langs_count=7&theme=slateorange"/>
+  
 </div>
  <div style="display: inline_block"><br>
   <img align="center" alt="Bru-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bru-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Bru-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bru-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="right" alt="Bru-pic" height="150" style="border-radius:50px;" src="[![PIXEL-ART.gif](https://i.postimg.cc/R0g481rJ/PIXEL-ART.gif)](https://postimg.cc/7CJFJ2Zq)?width=676&height=676">
+  <img align="right" width="120" src="https://github.com/danba340/svg-animation-readme-example/blob/master/animatedkitty.svg" />
 </div>
   
   ##
@@ -20,3 +21,6 @@
   <a href = "mailto:btavassi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/bruno-henrique-tavassi-50873815a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+
+ 
