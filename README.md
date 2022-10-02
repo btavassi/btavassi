@@ -23,6 +23,6 @@
 </div>
   
 
-<img align="center" width="130" src=https://github.com/btavassi/btavassi/blob/main/PIXEL-ART.gif/>
+<img align="center" width="130" src=https://github.com/btavassi/btavassi/blob/main/PIXEL-ART.gif alt=myspace title=myspace />
 
  
