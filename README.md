@@ -11,7 +11,7 @@
   <img align="center" alt="Bru-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Bru-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bru-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" width="120" src="https://github.com/btavassi/btavassi/blob/main/PIXEL-ART.gif" />
+  <img align="center" width="120" src="https://github.com/btavassi/btavassi/blob/main/PIXEL-ART.gif" />
   <img align="right" width="120" src="https://github.com/danba340/svg-animation-readme-example/blob/master/animatedkitty.svg" />
 </div>
   
