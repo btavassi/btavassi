@@ -26,5 +26,6 @@
   
 
 <img align="center" width="130" src=https://github.com/btavassi/btavassi/blob/main/PIXEL-ART.gif alt=myspace title=myspace />
+<img src=https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg />
 
  
