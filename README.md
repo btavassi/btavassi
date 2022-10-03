@@ -1,4 +1,5 @@
-### Olá sou o Tavassi!!! 👋
+### Oiii eu sou o bruno tavassi, apaixonado por tecnologia e desenvolvimento! 👋
+##
 
 <div align="center">
   <a href="https://github.com/btavassi">
